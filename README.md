@@ -25,14 +25,6 @@
 - [Ideas for Improvement](#ideas-for-improvement)
 
 ---
-
-
-### Demo GIF
-
-![Dice Roller Demo](assets/demo.gif)
-
----
-
 ## English
 
 ### Overview
